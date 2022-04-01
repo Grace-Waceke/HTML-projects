@@ -1,0 +1,54 @@
+body{
+    background-image: url(food.jpg);
+    background-repeat:no-repeat ;
+    background: position 100%;
+    background-size:cover;
+    position: fixed; 
+    font-size: large; 
+}
+    p{
+        color: beige;
+        font-size: 40px;
+        line-height: 70px;
+        font-weight: bolder;
+        text-align: center;
+        justify-content: center;
+}
+label.logo{
+    
+    color: white;
+    font-size: 35px;
+    line-height: 70px;
+    font-weight: bolder;
+    padding-bottom: 70%;
+}
+nav ul{
+    list-style-type: none;
+    text-align: right;
+    float: right;
+    margin-right: 40px;
+    color: white;
+    text-decoration: none;
+}
+li {
+display: inline;
+color: white;
+font-style:italic;
+font-size:oblique;
+margin: 10px;
+list-style-type: none;
+
+}
+li a{
+    color: white;
+    
+}
+
+img{
+    width: 80%;
+    height: 90;
+
+}
+
+
+

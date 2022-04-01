@@ -1,0 +1,79 @@
+h1{
+    text-underline-offset:none;
+    text-emphasis: none;
+    text-align: left;
+    text-decoration: none;
+    padding: 0px 10px;
+}
+body{
+    background-image: url(smart.jpg);
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+table{
+    text-align: center;
+    background-color: rgb(238, 231, 245);
+    padding: 20px 20px;
+    width: 1175px;
+    height: 500px;
+    text-decoration: none;
+    padding: 0px 60px;
+}
+table, th, td{
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+tr :nth-child(tr){
+    background-color: aqua;
+}
+tr :nth-child(odd){
+    background-color: beige;
+}
+table,tr,th{
+      scroll-margin-inline: 2%;
+} 
+ nav ul{
+    list-style-type: none;
+    text-align: right;
+    float: right;
+    margin-right: 40px;
+    color: white;
+    text-decoration: none;
+    padding: 40px 40px;
+} 
+ li{
+display: inline;
+color: white;
+font-style:italic;
+font-size:x-large;
+margin: 10px;
+list-style-type: none;
+text-align: right;
+}
+li a{
+    color: black;
+    text-align: right;
+    
+}
+/* iframe{
+    margin-left: 100px;
+    padding-bottom: 50%;
+    image-rendering: auto;
+    display: block;
+} */
+
+footer p{
+    text-align: justify;
+    margin-top: 300px;
+    background-color: blue;
+    margin-left: 30px;
+}
+::-webkit-scrollbar{
+    display: none;
+    
+
+
+}
