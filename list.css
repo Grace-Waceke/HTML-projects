@@ -1,9 +1,21 @@
+label.logo{
+    
+    color: black;
+    font-size: 35px;
+    line-height: 70px;
+    font-weight: bolder;
+    padding-bottom: 70%;
+    margin-left: 3%;
+}
+
 h1{
     text-underline-offset:none;
     text-emphasis: none;
     text-align: left;
     text-decoration: none;
     padding: 0px 10px;
+    margin-left: 0% 10%;
+    padding: 0px 35px;
 }
 body{
     background-image: url(smart.jpg);
@@ -20,6 +32,7 @@ table{
     height: 500px;
     text-decoration: none;
     padding: 0px 60px;
+    margin:0% 3%;
 }
 table, th, td{
     border: 1px solid black;
@@ -39,7 +52,7 @@ table,tr,th{
     list-style-type: none;
     text-align: right;
     float: right;
-    margin-right: 40px;
+    margin-right: 2.8%;
     color: white;
     text-decoration: none;
     padding: 40px 40px;
@@ -73,7 +86,7 @@ footer p{
 }
 ::-webkit-scrollbar{
     display: none;
-    
+
 
 
 }

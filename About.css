@@ -10,7 +10,8 @@ label.logo{
     font-weight: bolder;
     /* padding-bottom: 80%;
     text-align: left; */
-    padding-left: 30px;
+    padding-left: 50px;
+    margin-left: 1%;
 }
 h1{
     text-underline-offset:none;
@@ -45,11 +46,10 @@ table,tr,th{
     list-style-type: none;
     text-align: right;
     float: right;
-    margin-right: 40px;
+    margin-left: 1%;
     color: white;
     text-decoration: none;
     padding: 0px 80px;
-    
 } 
  li{
 display: inline;
@@ -70,6 +70,7 @@ iframe{
     image-rendering: auto;
     display: block;
     padding: 0px 30px;
+    margin-left: 3%;
 }
 
 footer p{
